@@ -1,0 +1,12 @@
+[
+  { "_id": "CS101",
+    "name": "CS4550 12631 Web Development", "number": "CS4550.12631.202410", "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  { "_id": "CS102",
+    "name": "CS5610 20040 Web Development", "number": "CS5610.15631.202210", "startDate": "2022-01-10", "endDate": "2022-05-15"
+  },
+  { "_id": "CS103",
+    "name": "CS5001 19781 Intensive Foundations", "number": "CS5001.17631.202310", "startDate": "2024-01-10", "endDate": "2024-05-15"
+  }
+]

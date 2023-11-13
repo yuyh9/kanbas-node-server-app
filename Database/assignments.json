@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "A101",
+    "title": "A1 - ENV + HTML",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS101"
+  },
+  {
+    "_id": "A102",
+    "title": "A2 - CSS + BOOTSTRAP",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Oct 2 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS101"
+  },
+  {
+    "_id": "A103",
+    "title": "A3 - JS + REACT",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Oct 16 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS101"
+  },
+  {
+    "_id": "A104",
+    "title": "A4 - STATE + REDUX",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Oct 16 at 11:59pm",
+    "available": "Not available",
+    "until": "Oct 15 at 12:00am ",
+    "course": "CS101"
+  },
+  {
+    "_id": "A105",
+    "title": "A5 - NODE + SESSION",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Nov 13 at 11:59pm",
+    "available": "Not available",
+    "until": "Oct 9 at 12:00am",
+    "course": "CS101"
+  },
+  {
+    "_id": "A106",
+    "title": "A6 - MONGO",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Nov 13 at 11:59pm",
+    "available": "Not available",
+    "until": "Oct 26 at 12:00am",
+    "course": "CS101"
+  },
+  {
+    "_id": "A201",
+    "title": "A1 - ENV + HTML",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS102"
+  },
+  {
+    "_id": "A202",
+    "title": "A2 - CSS + BOOTSTRAP",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS102"
+  },
+  {
+    "_id": "A203",
+    "title": "A3 - JS + REACT",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS102"
+  },
+  {
+    "_id": "A204",
+    "title": "A4 - STATE + REDUX",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS102"
+  },
+  {
+    "_id": "A205",
+    "title": "A5 - NODE + SESSION",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS102"
+  },
+  {
+    "_id": "A206",
+    "title": "A6 - MONGO",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS102"
+  },
+  {
+    "_id": "A301",
+    "title": "A1 - ENV + HTML",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS103"
+  },
+  {
+    "_id": "A302",
+    "title": "A2 - CSS + BOOTSTRAP",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS103"
+  },
+  {
+    "_id": "A303",
+    "title": "A3 - JS + REACT",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS103"
+  },
+  {
+    "_id": "A304",
+    "title": "A4 - STATE + REDUX",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS103"
+  },
+  {
+    "_id": "A305",
+    "title": "A5 - NODE + SESSION",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS103"
+  },
+  {
+    "_id": "A306",
+    "title": "A6 - MONGO",
+    "description": "Multiple Modules",
+    "points": 100,
+    "due": "Sep 18 at 11:59pm",
+    "available": "",
+    "until": "",
+    "course": "CS103"
+  }
+]
