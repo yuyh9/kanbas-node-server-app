@@ -5,6 +5,7 @@ import Hello from "./hello.js";
 import Lab5 from "./lab5.js";
 import CourseRoutes from "./courses/routes.js";
 import ModuleRoutes from "./modules/routes.js";
+import AssignmentRoutes from "./assignment/routes.js";
 const app = express();
 app.use(
   cors({
@@ -13,6 +14,7 @@ app.use(
     origin: process.env.FRONTEND_URL
   }));
 app.use(express.json());
+AssignmentRoutes(app);
 ModuleRoutes(app);
 CourseRoutes(app)
 Lab5(app);
