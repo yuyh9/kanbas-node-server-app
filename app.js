@@ -11,7 +11,6 @@ app.use(
   cors({
     credentials: true,
     origin: process.env.NODE_ENV === "production" ? process.env.FRONTEND_URL : process.env.FRONTEND_URL_LOCAL,
-    origin: process.env.FRONTEND_URL
   }));
 app.use(express.json());
 AssignmentRoutes(app);
