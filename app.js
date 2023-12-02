@@ -9,7 +9,7 @@ import ModuleRoutes from "./modules/routes.js";
 import AssignmentRoutes from "./assignment/routes.js";
 import UserRoutes from "./users/routes.js";
 import session from "express-session";
-const CONNECTION_STRING = 'mongodb+srv://kanbas:21223@cluster0.lkb4c54.mongodb.net/?retryWrites=true&w=majority' || 'mongodb://127.0.0.1:27017/kanbas';
+const CONNECTION_STRING = process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/kanbas';
 mongoose.connect(CONNECTION_STRING);
 const app = express();
 app.use(
