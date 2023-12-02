@@ -1,6 +1,5 @@
 [
   {
-    "_id": "A101",
     "title": "A1 - ENV + HTML",
     "description": "Multiple Modules",
     "points": 100,
@@ -10,7 +9,6 @@
     "course": "CS101"
   },
   {
-    "_id": "A102",
     "title": "A2 - CSS + BOOTSTRAP",
     "description": "Multiple Modules",
     "points": 100,
@@ -20,7 +18,6 @@
     "course": "CS101"
   },
   {
-    "_id": "A103",
     "title": "A3 - JS + REACT",
     "description": "Multiple Modules",
     "points": 100,
@@ -30,7 +27,6 @@
     "course": "CS101"
   },
   {
-    "_id": "A104",
     "title": "A4 - STATE + REDUX",
     "description": "Multiple Modules",
     "points": 100,
@@ -40,7 +36,6 @@
     "course": "CS101"
   },
   {
-    "_id": "A105",
     "title": "A5 - NODE + SESSION",
     "description": "Multiple Modules",
     "points": 100,
@@ -50,7 +45,6 @@
     "course": "CS101"
   },
   {
-    "_id": "A106",
     "title": "A6 - MONGO",
     "description": "Multiple Modules",
     "points": 100,
@@ -60,7 +54,6 @@
     "course": "CS101"
   },
   {
-    "_id": "A201",
     "title": "A1 - ENV + HTML",
     "description": "Multiple Modules",
     "points": 100,
@@ -70,7 +63,6 @@
     "course": "CS102"
   },
   {
-    "_id": "A202",
     "title": "A2 - CSS + BOOTSTRAP",
     "description": "Multiple Modules",
     "points": 100,
@@ -80,7 +72,6 @@
     "course": "CS102"
   },
   {
-    "_id": "A203",
     "title": "A3 - JS + REACT",
     "description": "Multiple Modules",
     "points": 100,
@@ -90,7 +81,6 @@
     "course": "CS102"
   },
   {
-    "_id": "A204",
     "title": "A4 - STATE + REDUX",
     "description": "Multiple Modules",
     "points": 100,
@@ -100,7 +90,6 @@
     "course": "CS102"
   },
   {
-    "_id": "A205",
     "title": "A5 - NODE + SESSION",
     "description": "Multiple Modules",
     "points": 100,
@@ -110,7 +99,6 @@
     "course": "CS102"
   },
   {
-    "_id": "A206",
     "title": "A6 - MONGO",
     "description": "Multiple Modules",
     "points": 100,
@@ -120,7 +108,6 @@
     "course": "CS102"
   },
   {
-    "_id": "A301",
     "title": "A1 - ENV + HTML",
     "description": "Multiple Modules",
     "points": 100,
@@ -130,7 +117,6 @@
     "course": "CS103"
   },
   {
-    "_id": "A302",
     "title": "A2 - CSS + BOOTSTRAP",
     "description": "Multiple Modules",
     "points": 100,
@@ -140,7 +126,6 @@
     "course": "CS103"
   },
   {
-    "_id": "A303",
     "title": "A3 - JS + REACT",
     "description": "Multiple Modules",
     "points": 100,
@@ -150,7 +135,6 @@
     "course": "CS103"
   },
   {
-    "_id": "A304",
     "title": "A4 - STATE + REDUX",
     "description": "Multiple Modules",
     "points": 100,
@@ -160,7 +144,6 @@
     "course": "CS103"
   },
   {
-    "_id": "A305",
     "title": "A5 - NODE + SESSION",
     "description": "Multiple Modules",
     "points": 100,
@@ -170,7 +153,6 @@
     "course": "CS103"
   },
   {
-    "_id": "A306",
     "title": "A6 - MONGO",
     "description": "Multiple Modules",
     "points": 100,
