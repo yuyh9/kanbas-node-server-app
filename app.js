@@ -30,7 +30,9 @@ if (process.env.NODE_ENV !== "development") {
     secure: true,
   };
 }
-app.use(session(sessionOptions));
+app.use(
+  session(sessionOptions)
+);
 
 app.use(express.json());
 UserRoutes(app);
